@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/agent-framework](https://github.com/microsoft/agent-framework). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 ![Microsoft Agent Framework](docs/assets/readme-banner.png)
 
 # Welcome to Microsoft Agent Framework!
